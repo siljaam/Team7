@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+  }
+/* Navbar made by Juha Kärnä */
+.active {
+    color: red;
+}
+
+.nav-item {
+    padding: 15px 4px;
+}
+
+
+ul {
+    margin-right: 45vh;
+    font-size: 1.9vh;
+  }
+li a {
+    text-align: center;
+}
+.nav-link {
+    margin-right: 2vh;
+}
+
+.navbar-brand {
+    margin-left: 35vh;
+}
+
+/* intro and hull made by Juha Kärnä*/
+.intro {
+    background-color: #a7a7a7;
+    color: white;
+    flex: 100%;
+    padding: 20px;
+    font-size: 2.4vh;
+
+  }
+
+  .introText {
+    margin-left: 30%;
+    padding: 20px;
+}
+
+.hull {
+    background-color: #636363;
+    color: white;
+    flex: 100%;
+    padding: 20px;
+    font-size: 2.4vh;
+
+  }
+  
+  .hullText {
+    margin-left: 30%;
+    padding: 20px;
+    font-size: 2.4vh;
+  }

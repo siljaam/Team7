@@ -1,4 +1,4 @@
-/*Siljas part on css for menu page*/
+/*This CSS is made by Silja Markku*/
 .flexContainer{
     display: flex;
     align-content: space-between;
@@ -27,7 +27,7 @@ background-color: rgb(250, 235, 217);
     background-color:  #ffe0b3;
 }
 header {
-margin-top: 5px;
+margin-top: 10px;
 font-size: x-large;
 text-align: center;
 font-weight: bold;

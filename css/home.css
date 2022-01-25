@@ -6,9 +6,6 @@ body{
     box-sizing: border-box;
   }
 /* Navbar made by Juha Kärnä */
-.active {
-    color: red;
-}
 
 .nav-item {
     padding: 15px 4px;
@@ -28,6 +25,16 @@ li a {
 
 .navbar-brand {
     margin-left: 35vh;
+}
+
+/* Header by Juha Kärnä */
+.header {
+  padding: 15vw;
+  background-image: url("images/isCoffeeGood4u.jpg");
+    background-repeat: no-repeat; 
+    background-size: 100% 100%; 
+    background-position: center;
+    background-attachment: fixed;
 }
 
 /* intro and hull made by Juha Kärnä*/

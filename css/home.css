@@ -32,7 +32,7 @@ li a {
 
 /* intro and hull made by Juha Kärnä*/
 .intro {
-    background-color: #a7a7a7;
+    background-color: #f5d5a6;
     color: white;
     flex: 100%;
     padding: 20px;
@@ -46,7 +46,7 @@ li a {
 }
 
 .hull {
-    background-color: #636363;
+    background-color: #f5d5a6;
     color: white;
     flex: 100%;
     padding: 20px;

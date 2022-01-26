@@ -99,11 +99,7 @@ li a {
  .intro > img {
     display: none;
   }
-
-  .fixed-top {
-    position: relative;
-    top: 1;
-  }
+  
   ul {
     margin: 0;
   }

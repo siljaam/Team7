@@ -2,6 +2,7 @@ body{
     margin: 0;
 }
 
+
 * {
     box-sizing: border-box;
   }
@@ -80,4 +81,41 @@ li a {
 .hull2 > div {
   width: 100%;
   text-align: center;
+}
+
+/* mobile made by Juha Kärnä */
+@media only screen and (max-width: 500px) {
+  .header {
+    display: none;
+  }
+  .navbar-brand {
+    margin: 0;
+  }
+  .nav-link {
+   margin: 0;
+  }
+
+ .intro > img {
+    display: none;
+  }
+
+  .fixed-top {
+    position: relative;
+    top: 1;
+  }
+  ul {
+    margin: 0;
+  }
+  .introText {
+    margin-top: 10vh;
+    margin-left: auto;
+  		margin-right: auto;
+  		width: 50%;
+  }
+
+  .intro {
+    padding-top: 15vh;
+    display: flex;
+    flex-direction: column;
+  }
 }

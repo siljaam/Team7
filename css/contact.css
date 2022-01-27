@@ -7,7 +7,6 @@
 .contact-section h1{
     text-align: center;
     color: black; 
-
  }
 .contact-form{
     max-width: 600px;
@@ -24,29 +23,22 @@
     background: #ffe0b3;
     padding: 20px 40px;
     outline: none;
-    color: black;
-   
+    color: black; 
 }
 textarea.contact-form-text{
     resize: none;
     height: 120px;
 }
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+/*map made by Tea Lyytinen*/
 .mapandinformation{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 100px 0;
-    
+    margin: 100px 0;  
 }
 .mapBox{
    margin-left: 10%;
    margin-top: 5%;
-
 }
 .information{
     text-align: center;
@@ -55,6 +47,10 @@ textarea.contact-form-text{
     margin-right: 150px;
     font-weight: 100;
     margin-top: 5%;
+}
+.contact-form-button{
+
+
 }
 
 

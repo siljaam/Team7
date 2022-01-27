@@ -17,6 +17,7 @@ body{
 ul {
     margin-right: 45vh;
     font-size: 1.9vh;
+    font-family: 'Open Sans', sans-serif;
   }
 li a {
     text-align: center;
@@ -45,6 +46,7 @@ li a {
     flex: 100%;
     padding: 20px;
     font-size: 2.4vh;
+    font-family: 'Open Sans', sans-serif;
 
   }
 
@@ -60,6 +62,7 @@ li a {
     display: flex;
     flex-direction: row;
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
 
   }
 .hull > h1 {
@@ -82,6 +85,7 @@ li a {
 .hull2 > div {
   width: 100%;
   text-align: center;
+  font-family: 'Open Sans', sans-serif;
 }
 
 /* mobile made by Juha Kärnä */

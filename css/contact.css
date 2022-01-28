@@ -23,11 +23,34 @@
     background: #ffe0b3;
     padding: 20px 40px;
     outline: none;
-    color: black;
-    transform: 0.5s;
+    color: black; 
 }
 textarea.contact-form-text{
     resize: none;
     height: 120px;
 }
+/*map made by Tea Lyytinen*/
+.mapandinformation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 0;  
+}
+.mapBox{
+   margin-left: 10%;
+   margin-top: 5%;
+}
+.information{
+    text-align: center;
+    flex-basis: 40%;
+    position: relative;
+    margin-right: 150px;
+    font-weight: 100;
+    margin-top: 5%;
+}
+.contact-form-button{
+
+
+}
+
 

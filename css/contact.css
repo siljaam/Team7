@@ -34,11 +34,12 @@ textarea.contact-form-text{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 100px 0;  
+    margin: 150px 0;  
+    background-color: #ffe0b3;   
 }
 .mapBox{
    margin-left: 10%;
-   margin-top: 5%;
+   margin-top: 0.35%;
 }
 .information{
     text-align: center;
@@ -46,11 +47,16 @@ textarea.contact-form-text{
     position: relative;
     margin-right: 150px;
     font-weight: 100;
-    margin-top: 5%;
+    margin-top: 0%;
 }
 .contact-form-button{
 
 
 }
+@media only screen and (max-width:700px){
+    .mapandinformation{
+        flex-direction: column-reverse;
+        margin: 50px 0;
+}
 
-
+}

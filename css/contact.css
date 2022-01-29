@@ -50,9 +50,19 @@ textarea.contact-form-text{
     margin-top: 0%;
 }
 .contact-form-button{
-
-
+    width: 140px;
+    border: 0;
+    padding: 12px 10px;
+    border-radius: 6px;
+    cursor: pointer;
 }
+.contact-form-button:hover{
+    background-color: #ffe0b3;
+}
+ 
+
+/*mobile*/
+
 @media only screen and (max-width:700px){
     .mapandinformation{
         flex-direction: column-reverse;
